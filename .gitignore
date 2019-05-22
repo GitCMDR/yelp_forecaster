@@ -3,3 +3,5 @@ include/
 etc/
 lib/
 share/
+yelp_regression_project/*.json
+yelp_regression_project/yelp_regression_solution.ipynb
